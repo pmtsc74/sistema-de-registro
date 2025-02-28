@@ -1,1 +1,2 @@
-- por terminar
+console.log("ejecutando el sistema")
+
